@@ -1,0 +1,2 @@
+# djangodemo
+djangodemo,sql,restful
